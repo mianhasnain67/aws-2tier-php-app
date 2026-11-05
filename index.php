@@ -1,7 +1,6 @@
 <?php
 // RDS Database Configuration (Professional Standard: Use environment variables in production)
-$host = "database-2tier.c21muigc2r4y.us-east-1.rds.amazonaws.com"; // Misal ke tor par: database-2tier.c123456789.us-east-1.rds.amazonaws.com
-$username = "admin";
+$host = "database-2tier.c21muigc2r4y.us-east-1.rds.amazonaws.com";
 $password = "Mian$6767";
 $database = "database-2tier"; // Ya jo database name aapne rakha ho
 
