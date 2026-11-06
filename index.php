@@ -1,5 +1,5 @@
 <?php
-$host = "10.0.5.97";
+$host = "database-2tier.c21muigc2r4y.us-east-1.rds.amazonaws.com";
 $username = "admin";
 $password = "Mian$6767";
 $database = "database-2tier";
